@@ -1,0 +1,1 @@
+Uma janela com um botão que quando você clica ele teleporta para um lugar(inspirado nos sites/jogos trolls)
